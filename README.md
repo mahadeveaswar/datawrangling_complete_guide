@@ -1,5 +1,7 @@
 # A Complete Guide to Data Wrangling using Pandas
 ![Pandas Logo](./images/pandas_logo.png)
+
+
 Pandas is one of the core components of the Data Science toolkit. It is effective in loading, analyzing and manipulating relational/labeled data.
 
 ### Installing Pandas
@@ -16,7 +18,7 @@ In this IPython Notebook, I will demonstrate how to Load, Explore, and Manipulat
 
 ### [Dataset](./data/mpg_dataset.csv) - mpg dataset used for demonstration
 
-## [Article - Essential Data Wrangling Skills for Data Scientists in 2021]() - Published on Towards Data Science
+### [Article - Essential Data Wrangling Skills for Data Scientists in 2021]() - Published on Towards Data Science
 
 I recommend you refer to the Article for conceptual understanding and parallelly try executing the commands from the IPython Notebook.
 
