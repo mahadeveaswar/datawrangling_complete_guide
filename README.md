@@ -18,7 +18,7 @@ In this IPython Notebook, I will demonstrate how to Load, Explore, and Manipulat
 
 ### [Dataset](./data/mpg_dataset.csv) - mpg dataset used for demonstration
 
-### [Article - Essential Data Wrangling Skills for Data Scientists in 2021]() - Published on Towards Data Science
+### [Article - Essential Data Wrangling Skills for Data Scientists in 2021](https://towardsdatascience.com/essential-data-wrangling-skills-for-data-scientists-in-2021-87a5cb698287) - Published on Towards Data Science
 
 I recommend you refer to the Article for conceptual understanding and parallelly try executing the commands from the IPython Notebook.
 
